@@ -19,7 +19,7 @@ Following the website, I went to Settings > System > Storage > Disks & Volumes a
 
 ![image](https://github.com/gervguerrero/Basic-Drive-Reformatting-/assets/140366635/f2f67583-6b8d-463e-b1c4-7ea8d103f2d5)
 
-AFter making the formatting changes, the drive was labled with NTFS, Healthy and Basic Partition. The was then seen in the file explorer where it previously wasn't.
+After making the formatting changes, the drive was labled with NTFS, Healthy and Basic Partition. The drive was then seen in the file explorer where it previously wasn't.
 
 ![image](https://github.com/gervguerrero/Basic-Drive-Reformatting-/assets/140366635/f2311f43-3805-4897-b955-10b7e2b8dcb7)
 
